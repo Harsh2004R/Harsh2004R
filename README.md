@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">Passionate MERN Stack Web Developer Eager to Contribute</h3>
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" align="right" alt="image" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" align="right" alt="image" width="300" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2004r&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2004r" /> </p>
 
 - ⚡ Fun fact **I am funny😃**
