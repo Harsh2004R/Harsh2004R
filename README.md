@@ -1,5 +1,5 @@
-![logo](https://github.com/Harsh2004R/Harsh2002R/blob/main/Git%20Banner.gif)
 
+![logo](https://github.com/Harsh2004R/Harsh2004R/blob/main/Git%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">Passionate MERN Stack Web Developer Eager to Contribute</h3>
