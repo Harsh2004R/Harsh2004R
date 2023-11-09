@@ -12,15 +12,12 @@
  🌱 I have recently worked over **React & UI Libraries**.
   <br><br>
 📄 Here is my [Resume](https://drive.google.com/file/d/1fj19qekBJPV7Gk-ZDzEvm40BZiOuQmzX/view?usp=drive_link).
-
   <br><br>
  👨‍💼 Know more about me 
   <br><br>
- 😄 All of my projects are available at <a href="https://github.com/Ayush-kr-shanu">My Github Repositories</a>
+ 💬 Ask me about ***HTML, CSS, JavaScript, React, Node.js, ExpressJs, Mongodb,*** and lots of modern UI Libraries(Tail Wind, Chakra, Material)
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, NoSQL, SQL, Node.js, ExpressJs, SocketIo, typescript**
-  <br><br>
- ⚡ How to reach me aksmilestone35@gmail.com
+ 🔎 Also connect with me harshsharmaktm03@gmail.com
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
