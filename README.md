@@ -7,11 +7,12 @@
 <div>
 <h2 align="center">About Me ⚛</h2>
   
- 🔭 I’m currently working on Backend Projects</a>
+ 🔭 I’m currently working on Full Stack Web App Projects</a>
   <br><br>
- 🌱 I’m currently working with **NodeJs with ExpressJs**.
+ 🌱 I’m currently working with **React & UI Libraries**.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1fBu3wKoloOXvzRR8slPNVT8uNPhpXPvn/view?usp=share_link">Resume</a>
+🤔 Here is my [Resume](https://drive.google.com/file/d/1fj19qekBJPV7Gk-ZDzEvm40BZiOuQmzX/view?usp=drive_link).
+
   <br><br>
  👨‍💻  Know more about me <a href="https://ayush-kr-shanu.github.io/">Portfolio</a>
   <br><br>
