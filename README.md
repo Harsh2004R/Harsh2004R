@@ -1,7 +1,7 @@
 ![logo](https://github.com/Harsh2004R/Harsh2004R/blob/main/Git%20Banner.gif)
 <div>
-<h2 align="center">Hi 👋, I am Ayush Kr Shanu.</h2>
-  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Ayush.;I+am+a+Full+Stack+Node+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+<h2 align="center">Hi 👋, I am Harsh Sharma</h2>
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Harsh Sharma;I+am+a+Full+Stack+Web+Developer.;Let's+collabe+and+spread+our+magic;Open+to+work" alt="server error" /></a></div>
 <hr>
   
 <div>
