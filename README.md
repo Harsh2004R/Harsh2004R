@@ -9,12 +9,12 @@
   
  🔭 I’m currently working on Full Stack Web App Projects</a>
   <br><br>
- 🌱 I’m currently working with **React & UI Libraries**.
+ 🌱 I have recently worked over **React & UI Libraries**.
   <br><br>
-🤔 Here is my [Resume](https://drive.google.com/file/d/1fj19qekBJPV7Gk-ZDzEvm40BZiOuQmzX/view?usp=drive_link).
+📄 Here is my [Resume](https://drive.google.com/file/d/1fj19qekBJPV7Gk-ZDzEvm40BZiOuQmzX/view?usp=drive_link).
 
   <br><br>
- 👨‍💻  Know more about me <a href="https://ayush-kr-shanu.github.io/">Portfolio</a>
+ 👨‍💼 Know more about me 
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/Ayush-kr-shanu">My Github Repositories</a>
   <br><br>
