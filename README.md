@@ -2,7 +2,7 @@
 <img width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <div>
 <h2 align="center">Hi 👋, I am Harsh Sharma</h2>
-  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=500&lines=Hi!+I+am+Harsh Sharma;I+am+a+Full+Stack+Web+Developer.;Let's+collabe+and+spread+our+magic;Open+to+work" alt="server error" /></a></div>
+  <div align="left" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=500&lines=Hi!+I+am+Harsh Sharma;I+am+a+Full+Stack+Web+Developer.;Let's+collabe+and+spread+our+magic;Open+to+work" alt="server error" /></a></div>
 <hr>
   
 <div>
