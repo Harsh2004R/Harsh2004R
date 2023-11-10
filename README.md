@@ -6,6 +6,14 @@
 <hr>
    
 <div>
+  
+<h1 align="center">Let's Get Connected</h1>
+<div align="center">
+ <a  href="https://www.linkedin.com/in/harsh-sharma-0545aa25b//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
+<a href="mailto:aksmilestone35@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
+</div>
+<br />
 <h2 align="center">About Me ⚛</h2>
   
  🔭 I’m currently working on Full Stack Web App Projects</a>
@@ -20,13 +28,6 @@
   <br><br>
  🔎 Also connect with me on harshsharmaktm03@gmail.com
 
-<h1 align="center">Let's Get Connected</h1>
-<div align="center">
- <a  href="https://www.linkedin.com/in/harsh-sharma-0545aa25b//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
-<a href="mailto:aksmilestone35@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
-</div>
-<br />
 <h1 align="center">💡 Languages and Tools: </h1>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack -></h4>
