@@ -1,3 +1,4 @@
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 ![logo](https://github.com/Harsh2004R/Harsh2004R/blob/main/Git%20Banner.gif)
 <div>
 <h2 align="center">Hi 👋, I am Harsh Sharma</h2>
@@ -17,10 +18,8 @@
   <br><br>
  💬 Ask me about ***HTML, CSS, JavaScript, React, Node.js, ExpressJs, Mongodb,*** and lots of modern UI Libraries(Tail Wind, Chakra, Material)
   <br><br>
- 🔎 Also connect with me harshsharmaktm03@gmail.com
-  
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-  
+ 🔎 Also connect with me on harshsharmaktm03@gmail.com
+
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
  <a  href="https://www.linkedin.com/in/ayush-kumar-shanu-537647200//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,7 +27,6 @@
 <a href="mailto:aksmilestone35@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 <br />
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <h2 align="center">🚀 Languages and Tools: </h2>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
