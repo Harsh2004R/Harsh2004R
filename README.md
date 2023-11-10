@@ -51,23 +51,24 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 </p>
 <br/>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+<hr>
 
 </div>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh2004R&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-kr-shanu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh2004R&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh2004" /> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 
  <div align ="center">
   <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Harsh2004R&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush-kr-shanu" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh2004R&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush-kr-shanu" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Harsh2004R&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh2004" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh2004R&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh2004" /></td>
   </tr>
   </div>
  
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh2004R&theme=dark" alt="Ayush-kr-shanu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh2004R&theme=dark" alt="Harsh2004" /></p>
   </div>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
