@@ -3,7 +3,6 @@
 <div>
 <h2 align="left">Hi 👋, I am Harsh Sharma</h2>
   <div align="left" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=500&lines=Hi!+I+am+Harsh Sharma;I+am+a+Full+Stack+Web+Developer.;Let's+collabe+and+spread+our+magic;Open+to+work" alt="server error" /></a></div>
-<hr>
   
 <div>
 <h2 align="center">About Me ⚛</h2>
