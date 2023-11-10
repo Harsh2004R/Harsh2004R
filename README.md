@@ -60,7 +60,7 @@
 
 </div>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayush-kr-shanu&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-kr-shanu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh2004R&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush-kr-shanu" /> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 
