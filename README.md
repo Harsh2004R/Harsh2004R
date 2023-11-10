@@ -51,13 +51,11 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 </p>
 <br/>
-
 <hr>
-
 </div>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh2004R&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh2004" /> </p>
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<hr>
 <h2 align="center">📊 My GitHub Statastics </h2>
 
  <div align ="center">
