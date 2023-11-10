@@ -14,8 +14,9 @@
 <a href="mailto:aksmilestone35@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
 </div>
 <br />
-  <hr>
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh2004R&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh2004" /> </p>
+<hr>
 <h2 align="center">About Me ⚛</h2>
   
  🔭 I’m currently working on Full Stack Web App Projects</a>
