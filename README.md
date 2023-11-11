@@ -1,12 +1,11 @@
-
+  ![logo](https://github.com/Harsh2004R/Harsh2004R/blob/main/Git%20Banner.gif)
 <img width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <div>
 <h2 align="left">Hi 👋, I am Harsh Sharma</h2>
-  <div align="left" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=500&lines=Hi!+I+am+Harsh Sharma;I+am+a+Full+Stack+Web+Developer.;Let's+collabe+and+spread+our+magic;Open+to+work" alt="server error" /></a></div>
+  <div align="left" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=500&lines=Hi!+I+am+Harsh Sharma;I+am+a+Full+Stack+Web+Developer.;Let's+collabe+and+spread+our+magic;Open+to+work" alt="server error" /></a>
+  </div>
 <hr>
-   ![logo](https://github.com/Harsh2004R/Harsh2004R/blob/main/Git%20Banner.gif)
 <div>
-  
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
  <a  href="https://www.linkedin.com/in/harsh-sharma-0545aa25b//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" /></a>
